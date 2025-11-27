@@ -1,2 +1,3 @@
 Xin chào Git
 Tôi đang học Git từng bước.
+Đây là dòng thử feature-text
