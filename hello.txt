@@ -1,3 +1,8 @@
 Xin chào Git
 Tôi đang học Git từng bước.
+<<<<<<< HEAD
 Đây là dòng sửa trên master
+=======
+Đây là dòng thử feature-text
+>>>>>>> feature-text
+Đây là dòng sửa master + feature-text
