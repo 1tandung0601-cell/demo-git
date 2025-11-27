@@ -1,10 +1,31 @@
-Xin chào Git
-Tôi đang học Git từng bước.
-<<<<<<< HEAD
-Đây là dòng sửa trên master
-=======
-Đây là dòng thử feature-text
->>>>>>> feature-text
-Đây là dòng sửa master + feature-
-bây giờ tôi se sửa code
+1. Suyt nua thi anh co the noi muon van loi muon noi
+Suyt nua thi co the deo em, qua tung hang pho quen
+Dong luu but nam xua viet voi hay con nho nhau den nhung ngay sau
+Tinh yeu dau tien anh giu, van ven nguyen noi con tim nay.
 
+Anh con nho moi luc tan truong ngai ngung theo em
+La con pho, co hoa bay anh mai theo sau
+Khoang cach ay ma sao xa qua chang the nao de toi ben em
+Thoi thanh xuan anh dang co la nhung noi buon nuoi tiec.
+
+[DK:]
+Loi chua noi anh tha vao trong con gio nhan voi may troi
+Tinh yeu do chi rieng anh biet anh cung chang mong hon nhieu
+Lieu rang em con ai dua don, anh o tho doi theo em
+Neu co the tro ve hom ay, anh se chang de phi co hoi.
+
+Tung vong quay tren chiec xe dap anh don dua em ngang qua
+Thoi thanh xuan, ma ta cung nhau viet len nhung giac mo dep
+Mot buoi chieu ngap tran manh vo roi ra tu hanh phuc rieng anh
+Suyt nua thi nguoi da biet yeu thuong mot thoi anh da tuong tu.
+(Suyt nua thi nguoi da biet anh yeu em)
+
+2. Qua cho bay muon nhac anh rang hay dung nuoi tiec
+Vay ma sao chinh anh van mai hy vong
+De roi tren doan duong phia truoc ta vo tinh nhin thay nhau
+Lieu bay gio anh se noi nhung tinh yeu cat giu bay lau.
+
+Ai cung phai goi cho minh khoang troi ky uc
+Ai cung phai co trong tim mot vai vet thuong
+Thoi gian troi chang cho doi ai em da duoc nguoi don ai dua
+Tinh yeu anh van the van mai chon vui noi day.
